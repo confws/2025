@@ -2,7 +2,7 @@
 title: '27th International Workshop on Configuration (ConfWS 2025)<br><span style="font-size: 60%;">Bologna, Italy. Oct 25-26, 2025</span>'
 permalink: "/"
 header:
-  overlay_image: "/assets/confws_2025/bg_bologna.jpg"
+  overlay_image: "assets/confws_2025/bg_bologna.jpg"
   overlay_filter: 0.3
   caption: '[Bologna, Italy](https://www.bolognawelcome.com/en/blog/top-10-things-to-do-in-bologna-)'
 author_profile: true
@@ -64,5 +64,5 @@ The aim of the special focus is to addresses a discussion on the urgent need for
 
 ---
 
-![ConfWS will be at Bologna](2025/assets/confws_2025/bg_bologna.jpg "ConfWS will be at Bologna")
+![ConfWS will be at Bologna](assets/confws_2025/bg_bologna.jpg "ConfWS will be at Bologna")
 
