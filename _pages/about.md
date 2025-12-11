@@ -64,5 +64,5 @@ The aim of the special focus is to addresses a discussion on the urgent need for
 
 ---
 
-![ConfWS will be at Bologna](/assets/confws_2025/bg_bologna.jpg "ConfWS will be at Bologna")
+![ConfWS will be at Bologna](2025/assets/confws_2025/bg_bologna.jpg "ConfWS will be at Bologna")
 
