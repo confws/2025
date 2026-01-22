@@ -146,6 +146,9 @@ author:
   - name: 'MICS'
     logo: assets/confws/MICS_logo.png
     url: https://www.mics.tech
+  - name: 'CEUR'
+    logo: assets/confws/CEUR-WS-logo-blue.png
+    url: https://ceur-ws.org
 #  - name: 'Siemens'
 #    logo: assets/confws/siemens-logo.png
 #    url: https://www.siemens.com/global/en.html
